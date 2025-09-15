@@ -25,3 +25,5 @@ displays all the tasks that have a duration less than the input.
 Allow the user to mark a certain task by the task's duration and description.
 
 • Display all completed tasks and the number of tasks completed per category.
+
+• The system can take input from a text file in addition to the user adding the tasks manually.
